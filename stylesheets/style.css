@@ -1,0 +1,27 @@
+#container {
+  height: 380px;
+  width: 200px;
+  margin: 0 auto;
+  background-color: #73E2D9;
+  border:1px solid green;
+}
+#change-light {
+  margin-left: 20px;
+}
+.light{
+  width: 100px;
+  height: 100px;
+  background-color: #D9E2D0;
+  margin: 10px auto;
+  border-radius: 60px;
+}
+
+.red {
+  background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+  background-color: green;
+}
